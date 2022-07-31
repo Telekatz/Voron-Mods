@@ -1,6 +1,6 @@
 # Clockwork2 CAN
 
-![Image of Clockwork2 CAN](imgages/Clockwork2.jpg)
+![Image of Clockwork2 CAN](Images/Clockwork2.jpg)
 
 A CAN toolhead bord designed for the Clockwork 2 in combination with the Klipper firmware. It provides all necessary interfaces for the toolhead. Only 4 wires (2xCAN, 24V GND) are needed to connect the toolhead bord to the host.  
 
