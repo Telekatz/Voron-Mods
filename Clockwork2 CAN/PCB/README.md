@@ -1,6 +1,6 @@
 # PCB design files 
 
-![Image of Clockwork2 CAN board](./Images/Clockwork2 CAN.jpg)
+![Image of Clockwork2 CAN board](../Images/Clockwork2%20CAN.jpg)
 
 The board is designed with [Circuitmaker](https://www.altium.com/circuitmaker)
 
@@ -56,11 +56,11 @@ To flash the CANBoot bootloader connect the board via USB. Because the board can
 
 ## Top Layer
 
-![Pinout Top Layer](./Images/PCB pinout top.jpg)
+![Pinout Top Layer](../Images/PCB%20pinout%20top.jpg)
 
 ## Bottom Layer
 
-![Pinout Bottom Layer](./Images/PCB pinout bottom.jpg)
+![Pinout Bottom Layer](../Images/PCB%20pinout%20bottom.jpg)
 
 ## Mating Connectors
 
@@ -86,7 +86,7 @@ To flash the CANBoot bootloader connect the board via USB. Because the board can
 | RPM        |            |  RPM Out   | RPM Out    |
 | GND        |            |            | GND        |
 
-![Image of SB Header Board](./Images/SB Header Board.jpg)
+![Image of SB Header Board](../Images/SB%20Header%20Board.jpg)
 
 ## CAN bus termination
 
