@@ -14,7 +14,7 @@ M3x8 SHCS | 2
 M3x16 SHCS | 2
 Shaft 3x45 | 2
 Spring 5.5x20 | 2
-M2 Threaded Insert | 2
+M3 Threaded Insert | 2
 CB09 Drag Knife | 1
 
 ## Assembling
