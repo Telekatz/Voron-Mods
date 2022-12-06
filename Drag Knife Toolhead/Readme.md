@@ -23,6 +23,19 @@ Use a 3 mm drill or reamer to enlarge the holes for the shaft in the drag knife 
 
 <img src="Images/Toolhead2.jpg" width=900/>
 
+## Voron Tap Version
+
+<img src="Images/Toolhead_Tap.jpg" width=900/>
+
+### BOM
+
+Size | Qty
+--- | ---
+M3x8 SHCS | 2	
+M3x16 SHCS | 2
+M3 Threaded Insert | 2
+CB09 Drag Knife | 1
+
 ## create GCODE
 
  - [FlatCAM](http://flatcam.org/)
